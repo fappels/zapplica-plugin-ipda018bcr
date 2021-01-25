@@ -1,0 +1,25 @@
+{
+  "name": "Ipda018BCR",
+  "version": "1.0.1",
+  "description": "trigger and read barcodes from Ipda018 series build in barcode scanner",
+  "cordova": {
+    "id": "zapplica-plugin-ipda018bcr",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "Ipda018",
+    "barcode reader",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "francis.appels@z-application.com",
+  "license": "Apache License 2.0",
+  "prettier": {
+	"trailingComma": "es5",
+	"tabWidth": 4,
+	"semi": false,
+	"singleQuote": true
+  }
+}
